@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Hello World 2</h1>
+            <h1>Hello World No SSL</h1>
           </hgroup>
 
 
